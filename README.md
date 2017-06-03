@@ -32,7 +32,9 @@ Data source type: Prometheus
 Address: http://localhost:9090
 Connect: Direct
 ```
+![Setup datasource](https://github.com/machozhao/grpc-server-monitoring/blob/master/blob/grafana_setup_ds.png?raw=true)
 ### Import Grafana Data Exploration Dashboard
 ```
 https://grafana.com/dashboards/456
 ```
+![Access databoard](https://github.com/machozhao/grpc-server-monitoring/blob/master/blob/grafana_setup_ds.png)
